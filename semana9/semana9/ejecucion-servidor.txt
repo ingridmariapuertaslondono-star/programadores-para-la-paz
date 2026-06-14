@@ -1,0 +1,10 @@
+Registro de Ejecución del Servidor:
+
+1. Al ejecutar el comando 'node server.js', el entorno de Node de manera interna compila el archivo, levanta el proceso e inicializa el Framework Express.
+2. En la terminal aparece el mensaje informativo: 'Servidor ejecutándose en puerto 3000', lo que indica que se encuentra en un estado de escucha activa.
+3. Cuando se visita la ruta '/estado' desde un cliente o navegador, el servidor intercepta la petición HTTP GET y devuelve una respuesta estructurada en formato JSON con la siguiente estructura:
+
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
