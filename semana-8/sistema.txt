@@ -1,0 +1,7 @@
+Análisis de comandos del sistema:
+
+1. El comando 'uname -a' muestra toda la información detallada del sistema operativo (nombre del kernel, versión, arquitectura de la máquina, etc.).
+2. El comando 'whoami' muestra el nombre del usuario actual que tiene la sesión activa en la terminal.
+
+¿Por qué es útil conocer esto al administrar un servidor?
+Es crítico porque permite saber con precisión sobre qué entorno se está trabajando (arquitectura de 32 o 64 bits, distribución de Linux), lo cual define la compatibilidad del software o parches a instalar. Además, conocer el usuario activo ayuda a validar si se cuentan con privilegios de administrador (root) antes de realizar configuraciones sensibles en el sistema.
