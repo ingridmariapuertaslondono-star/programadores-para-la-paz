@@ -1,0 +1,7 @@
+Al enviar una petición POST a http://localhost:3000/registro con el JSON de prueba, el servidor responde correctamente con un estado 200 OK y el siguiente cuerpo en formato JSON:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
