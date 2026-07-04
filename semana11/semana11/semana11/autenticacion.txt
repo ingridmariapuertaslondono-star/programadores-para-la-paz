@@ -1,0 +1,5 @@
+El login es el proceso que permite identificar a una persona antes de que pueda usar funciones específicas de la aplicación, para saber quién es y qué le corresponde hacer.
+
+Algunas rutas deben estar protegidas porque pueden contener información sensible, modificaciones importantes o registros internos que no deberían estar al alcance de cualquiera.
+
+No se debe exponer públicamente contraseñas, números de documento, teléfonos, direcciones, tokens de acceso ni datos privados de las familias o vecinos.
