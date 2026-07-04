@@ -1,0 +1,7 @@
+Una plataforma de participación ciudadana necesita una base de datos para guardar y organizar de forma ordenada toda la información, evitando que se pierdan las propuestas o no se pueda dar seguimiento a ellas.
+
+La autenticación es fundamental para garantizar que cada acción tiene un responsable, y para evitar que personas no autorizadas alteren, borren o usen indebidamente los registros comunitarios.
+
+Proteger la información no es solo una regla técnica: es una forma de generar confianza en los vecinos, para que se animen a participar sabiendo que sus datos estarán a salvo y solo se usarán para el bienestar del barrio.
+
+Sin estos elementos, la plataforma no serviría para fortalecer la organización, sino que podría generar riesgos o desconfianza en la comunidad.
