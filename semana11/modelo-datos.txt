@@ -1,0 +1,22 @@
+Entidad: Causa Comunitaria
+
+Campos principales:
+- id (identificador único)
+- titulo
+- descripcion
+- fecha_creacion
+- estado
+
+Propósito:
+Guardar toda la información de las iniciativas, necesidades o proyectos que surgen de la comunidad para que todos los usuarios las conozcan.
+
+
+Entidad: Registro de Participación
+
+Campos principales:
+- id (relaciona con la causa que se apoya)
+- nombre_usuario
+- fecha_apoyo
+
+Propósito:
+Llevar el control de qué usuarios apoyan cada causa, sin mostrar datos privados.
