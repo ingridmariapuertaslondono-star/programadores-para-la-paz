@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Entidad: Causa Comunitaria
 
 Campos principales:
@@ -20,3 +21,27 @@ Campos principales:
 
 Propósito:
 Llevar el control de qué usuarios apoyan cada causa, sin mostrar datos privados.
+=======
+Entidad: Causa
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+
+Propósito:
+Guardar las causas comunitarias que serán visibles en la plataforma.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id
+- causa_id
+- usuario
+- fecha
+
+Propósito:
+Registrar los apoyos que recibe cada causa para hacer seguimiento a la participación. 
+>>>>>>> 97aa337 (seman10y11)

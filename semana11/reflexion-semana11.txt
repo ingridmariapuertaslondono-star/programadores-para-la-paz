@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 Una plataforma de participación ciudadana necesita una base de datos para guardar de forma ordenada y segura toda la información de iniciativas y apoyos, sin perder registros.
 
 La autenticación de usuarios es necesaria para que solo personas autorizadas puedan crear o modificar contenido, evitando mensajes falsos o alteraciones indebidas.
 
 La protección de la información es fundamental porque se manejan datos de personas reales; debemos cuidar su privacidad para evitar abusos y generar confianza en la comunidad. Sin estos elementos, la plataforma no sería útil ni segura.
+=======
+Una plataforma tecnológica que promueve la participación ciudadana necesita una base de datos, autenticación de usuarios y protección de la información porque estos elementos garantizan que el sistema sea funcional, confiable y seguro.
+
+Base de datos: Permite almacenar y organizar toda la información de la plataforma, como los datos de los usuarios, propuestas ciudadanas, comentarios, votaciones, resultados y registros de participación. Sin una base de datos, sería imposible gestionar la información de manera eficiente y mantener un historial de las actividades.  
+>>>>>>> 97aa337 (seman10y11)

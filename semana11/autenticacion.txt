@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 El login es el proceso por el cual una persona confirma su identidad en la aplicación, por ejemplo con usuario y contraseña, antes de darle acceso a las funciones.
 
 Algunas rutas deben estar protegidas porque solo deben ser vistas o modificadas por personas autorizadas, para evitar cambios indebidos o acceso a información reservada.
 
 No se debe exponer públicamente contraseñas, números de documento, teléfonos, direcciones, claves de acceso ni datos sensibles de la comunidad.
+=======
+El login permite identificar a un usuario antes de darle acceso a ciertas funciones.
+
+Algunas rutas deben estar protegidas porque pueden contener información privada, registros internos o acciones que no deberían estar disponibles para cualquier persona.
+
+No se deben exponer públicamente contraseñas, documentos de identidad, teléfonos, direcciones, tokens, claves de API ni datos sensibles de la comunidad. 
+>>>>>>> 97aa337 (seman10y11)
