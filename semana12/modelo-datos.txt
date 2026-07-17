@@ -1,0 +1,21 @@
+MODELO DE DATOS
+
+Entidad: Causa
+
+id
+titulo
+descripcion
+fecha
+
+Descripción:
+La entidad Causa almacena la información principal de cada petición creada por un ciudadano.
+0
+Entidad: Apoyo
+
+id
+causa_id
+nombre
+fecha
+
+Descripción:
+La entidad Apoyo registra las personas que apoyan una causa y relaciona cada apoyo con la causa correspondiente mediante el campo causa_id.
